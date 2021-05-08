@@ -1,0 +1,17 @@
+input {
+  border: 1px solid black;
+}
+
+#message {
+  color: red;
+}
+
+.error {
+  background-color: red;
+  color: white;
+}
+
+.neutral {
+  background-color: white;
+  color: black;
+}
